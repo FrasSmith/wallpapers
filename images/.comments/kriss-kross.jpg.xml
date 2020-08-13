@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption/>
+  <note>{&quot;pipelinePreset&quot;:&quot;winterPicassoOil&quot;,&quot;filterConfig&quot;:{&quot;styleTransfer_0&quot;:{&quot;preset&quot;:&quot;styleTransfer.general.winterPicassoOil-style&quot;,&quot;parameters&quot;:{&quot;style&quot;:&quot;Picasso3&quot;,&quot;colorTransfer&quot;:1,&quot;opacity&quot;:0.86717122793197632,&quot;smoothness&quot;:0.34999999403953552}},&quot;oil_0&quot;:{&quot;preset&quot;:&quot;oil.general.winterPicassoOil-filter&quot;,&quot;parameters&quot;:{&quot;bumpScale&quot;:7,&quot;details&quot;:18.5,&quot;contrast&quot;:1.2400000095367432,&quot;colorfulness&quot;:0.81999999284744263,&quot;luminosity&quot;:0.20000000298023224,&quot;colorSmoothing&quot;:15,&quot;brushScale&quot;:0.69999998807907104}},&quot;deepBilateralLearning_0&quot;:{&quot;preset&quot;:&quot;deepBilateralLearning.general.preset-depthEnhancement-default&quot;,&quot;parameters&quot;:{&quot;colorTransfer&quot;:1,&quot;style&quot;:&quot;LocalLaplacian_Strong&quot;,&quot;opacity&quot;:1}}}}</note>
+  <place/>
+  <categories/>
+</comment>
